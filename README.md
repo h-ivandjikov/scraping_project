@@ -15,5 +15,6 @@
 
 Резултат:
 
-!\[Bar Chart](data\_plotting/best\_priced\_site\_chart.png)
 
+
+<img width="2969" height="1769" alt="best_priced_site_chart" src="https://github.com/user-attachments/assets/522e6b65-6386-46a7-9ec7-87708df01e70" />
