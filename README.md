@@ -2,7 +2,7 @@
 
 
 
-## Как работи
+## Проектът показва \*\*кой сайт най-често предлага най-ниска цена\*\* за даден компонент (напр. RAM, SSD, видеокарти и т.н.).
 
 
 
@@ -15,5 +15,7 @@
 
 Резултат:
 
-!\[Bar Chart](data\_plotting/best\_priced\_site\_chart.png)
+
+
+<img width="2969" height="1769" alt="best\_priced\_site\_chart" src="https://github.com/user-attachments/assets/522e6b65-6386-46a7-9ec7-87708df01e70" />
 
